@@ -28,7 +28,9 @@ Experience in various types of tests and approaches on different application and
 Worked as test engineer for more than 6 years in different projects. For last year had a complete responsibility of all testing activities either for significant part of project or for the whole project. 
 
 Capable to write and execute - low level code based functional tests.
-    - Test design creation, analysis of risk-based applications part
-    - Identified, documented and reported bugs, errors and other issues within software applications
-    - Recognized for good problem-solving and analytical skills by programmers, project managers
-    - UI step by step scenario based tests
+
+
+   * Test design creation, analysis of risk-based applications part
+   * Identified, documented and reported bugs, errors and other issues within software applications
+   * Recognized for good problem-solving and analytical skills by programmers, project managers
+   * UI step by step scenario based tests
