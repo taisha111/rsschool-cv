@@ -1,10 +1,8 @@
 # Tatiana Panchenko
 ---
-## Q&A 
+### Q&A, 1C Developer
 ---
-## 1C Developer
----
-### Contacts:
+**Contacts:**
 ---
 ptb182@yandex.ru
 ---
@@ -22,3 +20,15 @@ ptb182@yandex.ru
     * Unix, Linux, Windows 7, Windows 10
 5. **Technologies:**
     * HTML, XML, sql, wiki, SVN, Teamcity, Mantis
+
+
+Experience in various types of tests and approaches on different application and system layers including, but not limited to manual testing for java applications in low code level, performance testing, functional and system integration testing. 
+
+
+Worked as test engineer for more than 6 years in different projects. For last year had a complete responsibility of all testing activities either for significant part of project or for the whole project. 
+
+Capable to write and execute - low level code based functional tests.
+    - Test design creation, analysis of risk-based applications part
+    - Identified, documented and reported bugs, errors and other issues within software applications
+    - Recognized for good problem-solving and analytical skills by programmers, project managers
+    - UI step by step scenario based tests
