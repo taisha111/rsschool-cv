@@ -11,7 +11,7 @@ body {
   
   h1 {
     width: 255px;
-    margin: 5px;
+    margin-top: 20px;
     font-family: "Arial", sans-serif;
     text-align: center;
     font-weight: normal;
@@ -80,13 +80,16 @@ body {
     href="style.css"      
   }
   .footer {
-    min-width: 550px;
-    background-color: #555555;
-    color: #ffffff;
+    min-width: 510px;   
+    color: #000000;
+    font-weight: bold;
   }
   
   .footer .container {
     text-align: center;
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
   }
   
   .footer p {
