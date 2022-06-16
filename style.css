@@ -75,6 +75,19 @@ body {
     color:aqua
     text-decoration: none; 
   }
+  .nav {
+    width: 510px;
+    margin: 0 auto 10px;
+    padding: 0 20px;
+  }
+  .nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
 .p {
     color:#000000   
     href="style.css"      
@@ -96,7 +109,7 @@ body {
     display: inline-block;
     vertical-align: middle;
     text-align: center;   
-    padding: 0 20px;
+    margin-left: 1px;
   }
   .footer img {
     align: right;
