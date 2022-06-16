@@ -8,24 +8,39 @@
     <link  rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+    <div class="nav">
+        <a href="#contacts">Contacts</a>
+        <a href="#summary">Summary</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#education">Education</a>        
+    </div>
     <header class="header">
         <div class="container">
+          <img class="rightpic" src="./images/avatar.jpg" alt="avatar">
           <h1>Tatiana Panchenko</h1>
           <h2>Front-end developer</h2>
+        
         </div>       
     </header>
-    <section class="nav_header">
-        <header class="header">  <h2>Contacts</h2></header>
-        <img class="rightpic" src="./images/avatar.jpg" alt="avatar">
-        <p><a href="mailto:ptb182@yandex.ru">ptb182@yandex.ru</a></p>
-        <p><a href="https://t.me/taisha11">@taisha11</a></p>
-        <p><a href="https://github.com/taisha111/">taisha111</a></p>
+    <main>
+    <section id="contacts">
+        <div class="container">
+            <h2>Contacts</h2>
+            <p><a href="mailto:ptb182@yandex.ru">ptb182@yandex.ru</a></p>
+            <p><a href="https://t.me/taisha11">@taisha11</a></p>
+            <p><a href="https://github.com/taisha111/">taisha111</a></p>
+        </div>
+    </section>
+    <section id="summary">
+        <div class="container">
+            <h2>Summary</h2>
+            <p>Experience in various types of tests and approaches on different application and system layers including, but not limited to manual testing for java applications in low code level, performance testing, functional and system integration testing. </p>
+            <p>Now I try to learn something new.</p>
+        </div>    
     </section>
     <div class="container">
-        <h2>Summary</h2>
-        <p>Experience in various types of tests and approaches on different application and system layers including, but not limited to manual testing for java applications in low code level, performance testing, functional and system integration testing. </p>
-    </div>    
-    <div class="container">
+        <section id="skills">
         <h2>Major skills</h2> 
             <ol>
                 <li>Databases:
@@ -54,27 +69,33 @@
                     </ul>
                 </li>    
             </ol>
-        
+        </section>
 
     </div> 
+    <section id="Projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <a href="https://taisha111.github.io/rsschool-cv/cv">Rs-school CV</a>
+        </div>    
+    </section>
     <div class="container">
+        <section id="education">
         <h2>Education</h2>
         <p>1998-2003</p>
         <p>State University, Faculty of IT, IT engineer</p>
         <h2>Sertificates</h2>
         <p>2013</p>
         <p>ISTQB CTFL, "Knowledge department", ISTQB® Certified Tester, Foundation Level</p>
-
+        </section>
     </div>
-    
-    <div class="footer">
-        <footer class="container">
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <p><a href="https://github.com/taisha111/rsschool-cv" target="_blank">GitHub:@taisha111</a></p> 
             <p>2022</p>
             <a href="https://rs.school/"><img src="./images/rs_school_js.svg" alt="RSS logo"/></a>            
-        </footer>
-    </div>
-
-    </div>
-
+        </div>
+    </footer>
+    
 </body>
 </html>
