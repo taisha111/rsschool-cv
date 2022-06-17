@@ -1,0 +1,149 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    background-color: #ffffff;
+    color: #000000;
+
+  }
+  
+  h1 {
+    width: 255px;
+    margin-top: 20px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 24px;
+    color: #ffffff;  
+    
+      
+  }
+  
+  h2 {
+    width: 255px;
+    margin: 20 auto 8px;
+    font-family: "Arial", sans-serif;
+    text-align: left;
+    font-weight: bold;
+    font-size: 16px;    
+  }
+  a {
+    color:#000000;
+    text-decoration: none;
+  } 
+  .main
+  {
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: #555555;
+
+  }
+  .rightpic {
+    float: right; 
+    margin: 0 0 5px 5px;    
+    width:200px;
+  }
+  .container {
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: #aaaaaa;
+
+  }
+  .header {
+    display: block;
+    margin: 0 auto;
+    background-color: #cccccc;
+    
+  }
+  .nav_header {
+    width: 510px;
+    margin: 0 auto 30px;
+    padding: 0 20px;
+  }
+   .nav_header p {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 0 5px;    
+  }
+  .nav_header a {
+    font-family: "Arial", sans-serif;
+    text-align: left;
+    font-weight: normal;
+    font-size: 14px;    
+    color:aqua
+    text-decoration: none; 
+  }
+  .nav {
+    width: 510px;
+    margin: 0 auto 10px;
+  }
+  .nav li{
+    display: inline;
+    list-style-type:none;
+    margin-right: 5px;
+    color: #f2f2f2;
+    text-decoration: none;
+  }
+
+  .nav a{
+    color: #f2f2f2;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-weight:bold;
+    font-size: 13px;
+  }
+  .nav .container {
+    text-align: center;
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+ .nomarker {
+    list-style-type:none;
+ }
+.p {
+    color:#000000   
+    href="style.css"      
+  }
+  .footer {
+    min-width: 510px;   
+    color: #000000;
+    font-weight: bold;
+  }
+  
+  .footer .container {
+    text-align: center;
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer p {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;   
+    margin-left: 1px;
+  }
+  .footer img {
+    
+    width:100px;
+    float: right;    
+  }
