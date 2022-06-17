@@ -20,7 +20,9 @@ body {
     text-align: center;
     font-weight: normal;
     font-size: 24px;
-    color: #ffffff;    
+    color: #ffffff;  
+    
+      
   }
   
   h2 {
@@ -59,6 +61,7 @@ body {
     display: block;
     margin: 0 auto;
     background-color: #cccccc;
+    
   }
   .nav_header {
     width: 510px;
@@ -82,16 +85,22 @@ body {
   .nav {
     width: 510px;
     margin: 0 auto 10px;
-
-    
   }
-  .nav a {
-    
+  .nav li{
+    display: inline;
+    list-style-type:none;
+    margin-right: 5px;
+    color: #f2f2f2;
+    text-decoration: none;
+  }
+
+  .nav a{
     color: #f2f2f2;
     text-align: center;
     padding: 5px 5px;
     text-decoration: none;
-    font-size: 17px;
+    font-weight:bold;
+    font-size: 13px;
   }
   .nav .container {
     text-align: center;
@@ -103,6 +112,9 @@ body {
     justify-content: space-between;
     align-items: center;
   }
+ .nomarker {
+    list-style-type:none;
+ }
 .p {
     color:#000000   
     href="style.css"      
